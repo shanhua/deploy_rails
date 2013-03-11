@@ -1,4 +1,4 @@
 deploy_rails
 ============
 
-nginx, unicorn, git deploy rails
+an example of deploy rails with nginx, unicorn, git.
